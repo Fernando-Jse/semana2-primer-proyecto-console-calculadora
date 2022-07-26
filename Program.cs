@@ -10,7 +10,7 @@ namespace semana2_primer_proyecto_console_calculadora
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo!");
+            
         }
     }
 }
