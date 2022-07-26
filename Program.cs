@@ -13,6 +13,8 @@ namespace semana2_primer_proyecto_console_calculadora
             int a = 42;
             int b = 119;
             int c = a + b;
+            Console.WriteLine(c);
+            Console.ReadKey();
         }
     }
 }
