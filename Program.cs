@@ -10,7 +10,9 @@ namespace semana2_primer_proyecto_console_calculadora
     {
         static void Main(string[] args)
         {
-            
+            int a = 42;
+            int b = 119;
+            int c = a + b;
         }
     }
 }
